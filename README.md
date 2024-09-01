@@ -26,5 +26,5 @@
     pip3 install -r requirments.txt
     python3 main.py 
 
-Disclaimer: FluxDefender is provided solely for educational and research purposes. Unauthorized use or deployment of this tool can result in legal and ethical issues. Always ensure you have permission and comply with all relevant laws and regulations when using this tool.
+<sup>Disclaimer: FluxDefender is provided solely for educational and research purposes. Unauthorized use or deployment of this tool can result in legal and ethical issues. Always ensure you have permission and comply with all relevant laws and regulations when using this tool.</sup>
 
