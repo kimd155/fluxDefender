@@ -11,7 +11,7 @@
     Execution - Utilizes PowerRun.exe to execute the .reg file with TrustedInstaller/NT System privileges.
 
   
-`PowerRun.exe`: Ensures the .reg file is applied with the highest system privileges to alter Defender settings.
+`PowerRun.exe`: Ensures the .reg file is applied with the highest system privileges to alter Defender settings. (Built by Sordum.org)
 
 **This PowerRun.exe version has been packed with UPX to avoid most AV Detections!**
 
